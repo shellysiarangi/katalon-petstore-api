@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan pengujian terkait dengan endpoint Post Pet dengan status negatif test case</description>
+   <name>Post_Pet_Negatif_TestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>36ec9198-7978-4910-9247-9f76edd6fd3f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan pengujian terkait dengan endpoint Post Pet dengan status positif test case</description>
+   <name>Post_Pet_Positif_TestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d4d581f-390c-44ee-81e6-21992c569971</testCaseGuid>
+</TestCaseEntity>

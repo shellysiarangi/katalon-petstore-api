@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan pengujian terkait dengan endpoint Delete Pet dengan status positif test case</description>
+   <name>Delete_Pet_Positif_TestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e9b9f2df-1581-400e-85fe-e85b7638dc22</testCaseGuid>
+</TestCaseEntity>

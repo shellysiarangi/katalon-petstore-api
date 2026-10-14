@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan pengujian terkait dengan endpoint Put Pet dengan status positif test case</description>
+   <name>Put_Pet_Positif_TestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>355d0ed7-e07e-4213-bbfb-ceb29a95bee6</testCaseGuid>
+</TestCaseEntity>
